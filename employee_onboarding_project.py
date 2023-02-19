@@ -73,4 +73,3 @@ while True:
         break 
 video.release()
 video.destroyAllWindows()
-
